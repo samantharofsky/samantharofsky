@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @samantharofsky
+# **Hi, I’m @samantharofsky**
 I have taken CompSci Innovations class. 
 I chose this class to expand my coding abilities. 
 I am also interested in physical sciences.
